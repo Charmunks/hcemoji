@@ -1,0 +1,18 @@
+{
+  "name": "hcemoji",
+  "version": "1.0.0",
+  "description": "CLI for viewing and downloading Hack Club slack emojis",
+  "main": "cli.js",
+  "bin": {
+    "hcemoji": "./cli.js"
+  },
+  "scripts": {
+    "test": "echo 'hi'"
+  },
+  "author": "Charmunk",
+  "license": "ISC",
+  "dependencies": {
+    "asciify-image": "^0.1.10",
+    "commander": "^12.1.0"
+  }
+}
