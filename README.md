@@ -14,6 +14,7 @@ npm i -g hcemoji
 
 ```bash
 git clone https://github.com/Charmunks/hcemoji
+cd hcemoji
 npm i
 npm link
 ```
